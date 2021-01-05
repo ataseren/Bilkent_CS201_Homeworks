@@ -30,6 +30,6 @@ that there is a single copy of each book in the system.
 In this homework, you will work on an extended version of the HPAir problem that we studied in the
 class, which is also explained in Section 6.4 in your text book (Carrano’s book, 6’th edition). In this
 assignment, we will provide you with a directed flight graph that shows the connections between cities.
-A connection between two cities consists of a \flight id" and a \cost". By using this flight graph, your
+A connection between two cities consists of a "flight id" and a "cost". By using this flight graph, your
 program must find all possible paths (sequences of flights) between the given departure and destination
 cities. It also should find the least cost path among all paths. 
