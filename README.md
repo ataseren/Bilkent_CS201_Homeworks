@@ -34,3 +34,6 @@ assignment, we will provide you with a directed flight graph that shows the conn
 A connection between two cities consists of a "flight id" and a "cost". By using this flight graph, your
 program must find all possible paths (sequences of flights) between the given departure and destination
 cities. It also should find the least cost path among all paths. 
+
+
+I hope that these answers help you in your classes. Please feel free to ask anything about my work. My email: ata.seren@hotmail.com
